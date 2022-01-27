@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hubb2447\\source\\repos\\BACS287\\Output 2\\Output 2\\Output 2.csproj": {}
+    "C:\\Users\\conne\\Source\\Repos\\BACS287\\Output 2\\Output 2\\Output 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hubb2447\\source\\repos\\BACS287\\Output 2\\Output 2\\Output 2.csproj": {
+    "C:\\Users\\conne\\Source\\Repos\\BACS287\\Output 2\\Output 2\\Output 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hubb2447\\source\\repos\\BACS287\\Output 2\\Output 2\\Output 2.csproj",
+        "projectUniqueName": "C:\\Users\\conne\\Source\\Repos\\BACS287\\Output 2\\Output 2\\Output 2.csproj",
         "projectName": "Output 2",
-        "projectPath": "C:\\Users\\hubb2447\\source\\repos\\BACS287\\Output 2\\Output 2\\Output 2.csproj",
-        "packagesPath": "C:\\Users\\hubb2447\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hubb2447\\source\\repos\\BACS287\\Output 2\\Output 2\\obj\\",
+        "projectPath": "C:\\Users\\conne\\Source\\Repos\\BACS287\\Output 2\\Output 2\\Output 2.csproj",
+        "packagesPath": "C:\\Users\\conne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\conne\\Source\\Repos\\BACS287\\Output 2\\Output 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hubb2447\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\conne\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +49,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
