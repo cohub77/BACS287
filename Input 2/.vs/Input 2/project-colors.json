@@ -10,7 +10,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "e3750e85-8690-4be9-8e50-9b953b06c506": {
+      "ProjectGuid": "e3750e85-8690-4be9-8e50-9b953b06c506",
+      "DisplayName": "Input 3",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

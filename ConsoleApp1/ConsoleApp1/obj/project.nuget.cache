@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kSFdHbQ33VS6EhibG/bwCmGT2FOy1F87m3FD4Yt/P/Obm93CstQCsPNbeNPlT2hE0933gCkVQv0BZFILlhmQwQ==",
+  "dgSpecHash": "ei9dZwjQXvHwsBkGtsmcn6izfKc0bnjlttnDXcVrO6FOfOKprmkitkb6WAfrohdYNCZLJF7Iy9C7Mx44opaY/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hubb2447\\source\\repos\\BACS287\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\conne\\source\\repos\\BACS287\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conne\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

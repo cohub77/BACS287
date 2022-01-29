@@ -4,31 +4,30 @@ namespace Input_2;
 
 class Program
 {
-    public static int calcSum(int[] arr)
+
+     public static string[] CalcNums(double x, double y)
     {
-        int sum = 0;
-        for (int i = 0; i < arr.Length; i++)
-        {
-            sum += arr[i];
-        }
-        return sum;
-    }
-    public static float calcAverage(int[] arr)
-    {
-        float average = 0.0F;
-        average = (float)calcSum(arr) / arr.Length;
-        return average;
+        string[] arr = new string[5];
+        arr[0] = (x + y).ToString();
+        arr[1] = (x - y).ToString();
+        arr[2] = (x / y).ToString();
+        arr[3] = (x * y).ToString();
+        arr[4] = ((int)Math.Pow(x, y)).ToString();    
+        return arr;
     }
     public static void Main(string[] args)
     {
         Program program = new Program();
-        int[] arr = new int[5];
-        for (int i = 0; i < 5; i++)
-        {
-            Console.WriteLine("Enter number " + i);
-            arr[i] = Convert.ToInt32(Console.ReadLine());
-        }
-        Console.WriteLine("Sum: " + Program.calcSum(arr));
-        Console.WriteLine("Average: " + Program.calcAverage(arr));
+        Console.WriteLine("Enter first number: ");
+        double num1 = Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine("Enter second number: ");
+        double num2 = Convert.ToDouble(Console.ReadLine());
+        string[] arr = Program.CalcNums(num1, num2);
+        Console.WriteLine(num1 + " + " + num2 + " = " + arr[0]);
+        Console.WriteLine(num1 + " - " + num2 + " = " + arr[1]);
+        Console.WriteLine(num1 + " / " + num2 + " = " + arr[2]);
+        Console.WriteLine(num1 + " * " + num2 + " = " + arr[3]);
+        Console.WriteLine(num1 + " ^ " + num2 + " = " + arr[4]);
+
     }
 }

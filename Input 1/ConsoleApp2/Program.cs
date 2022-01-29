@@ -23,6 +23,7 @@ class Program
     {
         Program program = new Program();
         int[] arr = new int[5];
+        Console.WriteLine("Enter 5 numbers");
         for (int i = 0; i < 5; i++)
         {
             Console.WriteLine("Enter number " + (i + 1));
