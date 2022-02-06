@@ -5,14 +5,8 @@ namespace Input_3;
 class Program
 {
 
-
-    public static void Main(string[] args)
+    public static void Divide(double x, double y)
     {
-        Program program = new Program();
-        Console.WriteLine("Enter first number ");
-        double x = Convert.ToDouble(Console.ReadLine());
-        Console.WriteLine("Enter second number ");
-        double y = Convert.ToDouble(Console.ReadLine());
         if (y == 0)
         {
             Console.WriteLine("Error cannot divide by 0");
@@ -20,6 +14,24 @@ class Program
         else
         {
             Console.WriteLine(x + " / " + y + " = " + x / y);
+        }
+    }
+
+    public static void Main(string[] args)
+    {
+        int x = 2;
+        string z = "R";
+        if (x > 2 && z == "R")
+        {
+            Console.WriteLine("A");
+        }
+        if (x > 2 || z == "z")
+        {
+            Console.WriteLine("B");
+        }
+        if (z >= 2 || z == "R")
+        {
+            Console.WriteLine("C");
         }
     }
 }

@@ -11,7 +11,6 @@ class Program
         Random random = new Random();
         int num = random.Next(10) + 1;
         Program program = new Program();
-        {
             for (int i = 0; i < 3; i++)
             {
                 Console.WriteLine("Enter guess ");
@@ -30,6 +29,6 @@ class Program
                     Console.WriteLine("Higher");
                 }
             }
-        } 
+        Console.WriteLine("Correct number was " + num);
     }
 }

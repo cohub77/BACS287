@@ -1,0 +1,15 @@
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\bin\Debug\net6.0\Calculate Next Numbers II.exe
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\bin\Debug\net6.0\Calculate Next Numbers II.deps.json
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\bin\Debug\net6.0\Calculate Next Numbers II.runtimeconfig.json
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\bin\Debug\net6.0\Calculate Next Numbers II.dll
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\bin\Debug\net6.0\ref\Calculate Next Numbers II.dll
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\bin\Debug\net6.0\Calculate Next Numbers II.pdb
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\obj\Debug\net6.0\Calculate Next Numbers II.csproj.AssemblyReference.cache
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\obj\Debug\net6.0\Calculate Next Numbers II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\obj\Debug\net6.0\Calculate Next Numbers II.AssemblyInfoInputs.cache
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\obj\Debug\net6.0\Calculate Next Numbers II.AssemblyInfo.cs
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\obj\Debug\net6.0\Calculate Next Numbers II.csproj.CoreCompileInputs.cache
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\obj\Debug\net6.0\Calculate Next Numbers II.dll
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\obj\Debug\net6.0\ref\Calculate Next Numbers II.dll
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\obj\Debug\net6.0\Calculate Next Numbers II.pdb
+C:\Users\conne\source\repos\BACS287\Calculate Next Numbers II\Calculate Next Numbers II\obj\Debug\net6.0\Calculate Next Numbers II.genruntimeconfig.cache
