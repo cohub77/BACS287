@@ -15,7 +15,7 @@ class Program
         {
             Console.WriteLine("The number is negative");
         }
-        else 
+        else
         {
             Console.WriteLine("The number is 0");
         }
@@ -25,6 +25,10 @@ class Program
     {
         Console.WriteLine("Enter a number");
         double x = Convert.ToDouble(Console.ReadLine());
+        signOf(x);
+        Console.WriteLine();
+        Console.WriteLine("Enter a number");
+        x = Convert.ToDouble(Console.ReadLine());
         signOf(x);
     }
 }
