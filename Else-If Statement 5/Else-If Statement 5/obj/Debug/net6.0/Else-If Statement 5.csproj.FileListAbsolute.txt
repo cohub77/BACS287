@@ -1,0 +1,15 @@
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\bin\Debug\net6.0\Else-If Statement 5.exe
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\bin\Debug\net6.0\Else-If Statement 5.deps.json
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\bin\Debug\net6.0\Else-If Statement 5.runtimeconfig.json
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\bin\Debug\net6.0\Else-If Statement 5.dll
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\bin\Debug\net6.0\ref\Else-If Statement 5.dll
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\bin\Debug\net6.0\Else-If Statement 5.pdb
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\obj\Debug\net6.0\Else-If Statement 5.csproj.AssemblyReference.cache
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\obj\Debug\net6.0\Else-If Statement 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\obj\Debug\net6.0\Else-If Statement 5.AssemblyInfoInputs.cache
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\obj\Debug\net6.0\Else-If Statement 5.AssemblyInfo.cs
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\obj\Debug\net6.0\Else-If Statement 5.csproj.CoreCompileInputs.cache
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\obj\Debug\net6.0\Else-If Statement 5.dll
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\obj\Debug\net6.0\ref\Else-If Statement 5.dll
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\obj\Debug\net6.0\Else-If Statement 5.pdb
+C:\Users\conne\source\repos\BACS287\Else-If Statement 5\Else-If Statement 5\obj\Debug\net6.0\Else-If Statement 5.genruntimeconfig.cache
